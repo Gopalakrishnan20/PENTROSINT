@@ -37,7 +37,7 @@ Wi-Fi attack modules embed De-authentication attack and Evil Twin Attack
 * The key will be logged and clients will be allowed to reconnect to the target access point.
 * For a guide to the `Captive Portal` attack, read the [Captive Portal attack guide](https://github.com/FluxionNetwork/fluxion/wiki/Captive-Portal-Attack)
 
-## Osintgram usages
+## Osint Instagram usages
 Osintgram offers an interactive shell to perform analysis on Instagram account of any users by its nickname. You can get:
 
 ```text
